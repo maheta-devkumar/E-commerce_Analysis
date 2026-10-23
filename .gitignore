@@ -1,0 +1,25 @@
+
+# Sensitive configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local database backups and raw datasets
+*.dump
+*.backup
+*.sql.gz
+data/
+datasets/
+raw_data/
+
+# Temporary and log files
+*.log
+*.tmp
+~$*
+
+# Python environments, if used
+.venv/
+venv/
+__pycache__/
