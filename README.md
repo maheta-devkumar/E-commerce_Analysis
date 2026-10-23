@@ -64,6 +64,25 @@ This project uses PostgreSQL to store and prepare the data, SQL views to create 
 - Revenue by seller state.
 - Seller-level performance table.
 
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Screenshots/Overview.png)
+
+### Sales & Revenue
+![Sales and Revenue](Screenshots/Sales_And_Revenue.png)
+
+### Customers & Geography
+![Customers and Geography](Screenshots/Customers_And_Geography.png)
+
+### Delivery & Logistics
+![Delivery and Logistics](Screenshots/Delivery_And_Logistic.png)
+
+### Reviews & Sellers
+![Reviews and Sellers](Screenshots/Reviews_And_Sellers.png)
+
+
 ## Key DAX Measures
 
 The report includes measures such as:
